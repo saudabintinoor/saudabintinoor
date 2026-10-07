@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Sauda Binti Noor Banner" width="100%" />
+  <img src="./banner.jfif" alt="Sauda Binti Noor Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋</h1>
@@ -14,20 +14,22 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Contact:
+
 <p align="left">
-  <a href="mailto:saudabintinoor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saudabintinoor%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sauda-binti-noor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sauda_Binti_Noor-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="34" width="34" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saudabintinoor@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Gmail" height="34" width="34" />
   </a>
 </p>
 
 ---
 
 ### 💻 Languages and Tools:
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
@@ -41,14 +43,15 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 Activity & Momentum:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saudabintinoor&show_icons=true&locale=en&theme=radical" alt="saudabintinoor's stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saudabintinoor&show_icons=true&hide_rank=true&hide=prs,issues&count_private=true&theme=tokyonight" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saudabintinoor&theme=radical" alt="saudabintinoor's streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saudabintinoor&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>

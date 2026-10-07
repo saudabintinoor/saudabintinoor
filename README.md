@@ -2,18 +2,21 @@
   <img src="./banner.jfif" alt="Sauda Binti Noor Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Sauda — a Computer Science student exploring AI/ML, Web Development, and Human-Centered AI.</h3>
+<h1 align="center">Hi there 👋 I am Sauda</h1>
+<h3 align="center">A Computer Science student building for the Web, with a growing focus in AI/ML & Human-Centered Tech.</h3>
 
-<p align="center">
-  🌱 <b>Learning Web Development & AI/ML</b><br/>
-  🔬 <b>Exploring AI for learning, education & human development</b><br/>
-  🛠️ <b>Building projects and learning by doing</b><br/>
-  🎯 <b>Working toward a future in Web development and AI/ML research</b>
-</p>
+<div align="center">
+
+| |
+| :-- |
+| 🌱 **Building responsive, user-focused Web Applications** |
+| 🔬 **Exploring AI for learning, education & human development** |
+| 🛠️ **Building projects and learning by doing** |
+| 🎯 **Working toward impactful roles in Web Development & AI research** |
+
+</div>
 
 ---
-
 ### 🌐 Contact:
 
 <p align="left">

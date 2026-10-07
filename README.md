@@ -21,8 +21,8 @@
     <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="34" width="34" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:saudabintinoor@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Gmail" height="34" width="34" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saudabintinoor@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="32" width="32" />
   </a>
 </p>
 

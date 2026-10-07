@@ -5,16 +5,12 @@
 <h1 align="center">Hi there 👋 I am Sauda</h1>
 <h3 align="center">A Computer Science student building for the Web, with a growing focus in AI/ML & Human-Centered Tech.</h3>
 
-<div align="center">
-
-| |
-| :-- |
-| 🌱 **Building responsive, user-focused Web Applications** |
-| 🔬 **Exploring AI for learning, education & human development** |
-| 🛠️ **Building projects and learning by doing** |
-| 🎯 **Working toward impactful roles in Web Development & AI research** |
-
-</div>
+<p align="center">
+  🌱 <b>Building responsive, user-focused Web Applications</b><br/>
+  🔬 <b>Exploring AI for learning, education & human development</b><br/>
+  🛠️ <b>Building projects and learning by doing</b><br/>
+  🎯 <b>Working toward impactful roles in Web Development & AI research</b>
+</p>
 
 ---
 ### 🌐 Contact:
